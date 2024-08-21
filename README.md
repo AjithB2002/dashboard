@@ -9,3 +9,32 @@ Currently, two official plugins are available:
 
 
 
+## Installation and Setup
+
+Follow these steps to get the application up and running on your local machine:
+
+1. **Clone the Repository:**
+
+   Open a terminal or command prompt and run the following command to clone the repository:
+
+   
+bash
+   git clone <your-repo-url>https://ajithb2002.github.io/dashboard/
+   
+   
+2. **Navigate to the Project Directory:**
+
+   Change into the project directory:
+
+   ```bash
+   cd dashboard
+
+
+3.Install Dependencies:
+
+Install the project dependencies using npm or yarn:
+
+Using npm:
+npm install
+
+npm run dav
