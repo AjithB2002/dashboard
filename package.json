@@ -1,4 +1,5 @@
 {
+  "homepage": "https://AjithB2002.github.io/dashboard/",
   "name": "dashboard",
   "private": true,
   "version": "0.0.0",
@@ -12,6 +13,7 @@
   "dependencies": {
     "bootstrap": "^5.3.3",
     "chart.js": "^4.4.4",
+    "dashboard": "file:",
     "react": "^18.3.1",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.3.1"
